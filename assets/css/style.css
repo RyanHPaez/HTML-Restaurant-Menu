@@ -2,7 +2,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background-color: beige;
+    background-color: lightblue;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ main {
 }
 
 nav {
-    background-color: beige;
+    background-color: pink;
     padding: 10px;
 }
 
@@ -55,11 +55,11 @@ nav a:hover {
 #banner {
     width: 100%;
     height: auto;
-    background-color: white;
+    background-color: orange;
 }
 
 #banner img {
-    width: 60%;
+    width: 100%;
     height: auto;
 }
 
@@ -83,4 +83,17 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.highlight {
+    color: red;
+}
+
+footer {
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    text-align: center;
+    
+
 }
